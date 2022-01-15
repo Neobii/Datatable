@@ -68,7 +68,7 @@
     "juice": "^5.1.0",
     "lodash": "^4.17.15",
     "mailchimp": "^1.1.6",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "mdi-material-ui": "^6.9.0",
     "meteor-node-stubs": "^0.4.1",
     "mingo": "^0.8.1",
