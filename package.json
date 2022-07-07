@@ -72,7 +72,7 @@
     "mdi-material-ui": "^6.9.0",
     "meteor-node-stubs": "^0.4.1",
     "mingo": "^0.8.1",
-    "moment": "^2.13.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.27",
     "node-sass": "^4.11.0",
     "pluralize": "7.0.0",
